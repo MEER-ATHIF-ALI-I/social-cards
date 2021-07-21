@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(212, 212, 212, 0.534);
+  }
+  a {
+    border-bottom: 2px solid #0062cc;
+  }
+  .fa {
+    color: rgba(0, 0, 255, 0.637);
+  }
+  .box-center {
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+  }
+  .text {
+    margin: 20px 0;
+  }
+  .box {
+    padding: 60px 0;
+  }
